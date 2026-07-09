@@ -2,4 +2,4 @@
 
 ## 🔐 Get the Safety Framework Source Code
 
-[**➡️ Access the Private Repository**](https://www.microchip.com/mymicrochip/)
+[**➡️ Access the Private Repository**](https://www.microchip.com/myMicrochip/#/my-settings)
